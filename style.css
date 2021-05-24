@@ -4,7 +4,7 @@ body {
   }
 
   .jumbotron {
-    background-image: url("../images/jimmy.jpeg");
+    background-image: url("static/images/jimmy.jpeg");
     background-size: 100% 100%;
     text-align: center;
   }
